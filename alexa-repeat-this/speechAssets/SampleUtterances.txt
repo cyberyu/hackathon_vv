@@ -1,0 +1,54 @@
+RepeatIntent repeat {hello|input}
+RepeatIntent repeat {hi|input} {there|input}
+RepeatIntent repeat {it's|input} {cold|input} {here|input}
+RepeatIntent repeat {my|input} {name|input} {is|input} {Alexa|input}
+RepeatIntent repeat {the|input} {weather|input} {outside|input} {is|input} {frightful|input}
+RepeatIntent repeat {the|input} {meaning|input} {of|input} {life|input} {is|input} {forty-two|input}
+RepeatIntent repeat {what|input} {is|input} {the|input} {weather|input} {in|input} {Miami|input} {Beach|input}
+RepeatIntent repeat {you|input} {get|input} {nothing|input} {you|input} {lose|input} {good|input} {day|input} {sir|input}
+RepeatIntent repeat {the|input} {quick|input} {brown|input} {fox|input} {jumps|input} {over|input} {the|input} {lazy|input} {dog|input}
+RepeatIntent repeat {we|input} {are|input} {the|input} {music|input} {makers|input} {we|input} {are|input} {the|input} {dreamers|input} {of dreams|input}
+
+RepeatIntent say {hello|input}
+RepeatIntent say {hi|input} {there|input}
+RepeatIntent say {it's|input} {cold|input} {here|input}
+RepeatIntent say {my|input} {name|input} {is|input} {Alexa|input}
+RepeatIntent say {the|input} {weather|input} {outside|input} {is|input} {frightful|input}
+RepeatIntent say {the|input} {meaning|input} {of|input} {life|input} {is|input} {forty-two|input}
+RepeatIntent say {what|input} {is|input} {the|input} {weather|input} {in|input} {Miami|input} {Beach|input}
+RepeatIntent say {you|input} {get|input} {nothing|input} {you|input} {lose|input} {good|input} {day|input} {sir|input}
+RepeatIntent say {the|input} {quick|input} {brown|input} {fox|input} {jumps|input} {over|input} {the|input} {lazy|input} {dog|input}
+RepeatIntent say {we|input} {are|input} {the|input} {music|input} {makers|input} {we|input} {are|input} {the|input} {dreamers|input} {of dreams|input}
+
+RepeatIntent {hello|input}
+RepeatIntent {hi|input} {there|input}
+RepeatIntent {it's|input} {cold|input} {here|input}
+RepeatIntent {my|input} {name|input} {is|input} {Alexa|input}
+RepeatIntent {the|input} {weather|input} {outside|input} {is|input} {frightful|input}
+RepeatIntent {the|input} {meaning|input} {of|input} {life|input} {is|input} {forty-two|input}
+RepeatIntent repeat {what|input} {is|input} {the|input} {weather|input} {in|input} {Miami|input} {Beach|input}
+RepeatIntent {you|input} {get|input} {nothing|input} {you|input} {lose|input} {good|input} {day|input} {sir|input}
+RepeatIntent {the|input} {quick|input} {brown|input} {fox|input} {jumps|input} {over|input} {the|input} {lazy|input} {dog|input}
+RepeatIntent {we|input} {are|input} {the|input} {music|input} {makers|input} {we|input} {are|input} {the|input} {dreamers|input} {of dreams|input}
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
+AMAZON.StopIntent stop it
+
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent never mind
+AMAZON.CancelIntent forget it
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.HelpIntent what can I say
+AMAZON.HelpIntent can you help me
+
+AMAZON.PauseIntent pause
+AMAZON.PauseIntent pause that
+
+
+
+
+
